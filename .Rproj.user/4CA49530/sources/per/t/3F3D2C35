@@ -1,9 +1,9 @@
 {
     "id": "3F3D2C35",
-    "path": "~/skaluderovic.github.io/index.qmd",
+    "path": "C:/Users/Sofija/Desktop/skaluderovic.github.io/index.qmd",
     "project_path": "index.qmd",
     "type": "quarto_markdown",
-    "hash": "2070089687",
+    "hash": "299306470",
     "contents": "",
     "dirty": false,
     "created": 1712519066824.0,
@@ -16,16 +16,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "rmdVisualModeLocation": "37:0",
+        "rmdVisualModeLocation": "2:0",
         "cursorPosition": "0,0",
         "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1712520945,
+    "lastKnownWriteTime": 1712568184,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1712520945056,
+    "last_content_update": 1712568184,
     "read_only": false,
     "read_only_alternatives": []
 }
