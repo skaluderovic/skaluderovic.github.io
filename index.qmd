@@ -1,6 +1,6 @@
 ---
 title: "Sofija Kaluderovic"
-image: images/colloseum.jpg
+image: images/colloseum.jpeg
 about:
   template: trestles
   image-width: 5cm
