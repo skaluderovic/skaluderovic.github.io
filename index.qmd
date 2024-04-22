@@ -1,5 +1,6 @@
 ---
 title: "Sofija Kaluderovic"
+image: images/photo.jpg
 about:
   template: trestles
   image-width: 5cm
