@@ -2,7 +2,7 @@
 title: "Sofija Kaluderovic"
 ---
 
-This is a Quarto websgite.
+This is a Quarto websgite!
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
