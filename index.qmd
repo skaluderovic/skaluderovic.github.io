@@ -2,10 +2,6 @@
 title: "Sofija Kaluderovic"
 ---
 
-This is a Quarto websgite!
+Hello! I am a student at John Cabot University double majoring in Economics and Finance and International Affairs with good programming skills. I have a solid background in data analysis, Stata, Python, R programming, visualization, and Geographic Information Systems (GIS). On this website, you will find a showcase of my projects, demonstrating my programming skills.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+You can also check out my <a href="/cv/Kaluderovic_CV.pdf" target="_blank">CV</a>.
