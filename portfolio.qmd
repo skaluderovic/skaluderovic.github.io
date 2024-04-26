@@ -7,5 +7,13 @@ editor: visual
 You can check out the latest project that I conducted.
 
 <ul>
-<li><a href="/portfolio/a2.html" target="_blank">Example1</a></li>
+
+<li><a href="/Project Memo.html" target="_blank">Project Memo</a></li>
+
+</ul>
+
+<ul>
+
+<li><a href="/ProjectPresentation.html" target="_blank">Project Presentation</a></li>
+
 </ul>

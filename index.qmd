@@ -6,8 +6,12 @@ about:
   image-width: 5cm
   image-shape: round
   links:
+    - icon: envelope
+      href: mailto:sofijakaludjerovicc@gmail.com
     - icon: linkedin
       href: https://www.linkedin.com/in/sofija-kaluderovic-562956257/
+    - icon: github
+      href: https://github.com/skaluderovic/skaluderovic.github.io
 ---
 
 
