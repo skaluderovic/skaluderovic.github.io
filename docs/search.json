@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Sofija Kaluderovic",
     "section": "",
-    "text": "Hello! I am a student at John Cabot University double majoring in Economics and Finance and International Affairs with good programming skills. I have a solid background in data analysis, Stata, Python, R programming, visualization, and Geographic Information Systems (GIS). On this website, you will find a showcase of my projects, demonstrating my programming skills.\nYou can also check out my CV."
+    "text": "Hello! I am a student at John Cabot University double majoring in Economics and Finance and International Affairs with good programming skills. I have a solid background in data analysis, Stata, Python, R programming, visualization, and Geographic Information Systems (GIS). On this website, you will find a showcase of my projects, demonstrating my programming skills."
   },
   {
     "objectID": "portfolio.html",
@@ -26,5 +26,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "CV",
+    "section": "",
+    "text": "&lt;!DOCTYPE html&gt;\n\n\n\n\n\nCV\n\n\n\n\n\nCV"
   }
 ]

@@ -8,6 +8,7 @@ website:
       - href: index.qmd
         text: Home
       - portfolio.qmd
+      - CV.qmd
 
 format:
   html:

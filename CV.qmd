@@ -1,0 +1,23 @@
+---
+title: "CV"
+format: html
+editor: visual
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CV</title>
+  <script>
+    window.onload = function() {
+      window.location.href = "/cv/Kaluderovic_CV.pdf"; // Replace "/your-cv.pdf" with the actual path to your CV PDF file
+    };
+  </script>
+</head>
+<body>
+
+<h1>CV</h1>
+
+</body>
+</html>
