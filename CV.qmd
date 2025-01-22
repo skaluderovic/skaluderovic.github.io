@@ -4,8 +4,10 @@ format: html
 editor: visual
 ---
 
-  <script>
+```{=html}
+<script>
     window.onload = function() {
-      window.location.href = "/cv/Kaluderovic_CV.pdf"; 
+      window.location.href = "cv/Kaluderovic_CV.pdf" 
     };
   </script>
+```
