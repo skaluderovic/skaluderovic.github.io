@@ -15,4 +15,4 @@ about:
 ---
 
 
-Hi! I am a student at John Cabot University double majoring in Economics and Finance and International Affairs with good programming skills. I have a solid background in data analysis, Stata, Python, R programming, visualization, and Geographic Information Systems (GIS). On this website, you will find a showcase of my projects, demonstrating my programming skills.
+Hi! I am a postgraduate student with a Bachelor's degree in Economics and Finance and International Affairs from John Cabot University. I have strong programming skills and a solid background in data analysis, Stata, Python, R, data visualization, and Geographic Information Systems (GIS). On this website, you will find a showcase of my projects that demonstrate my programming skills.
