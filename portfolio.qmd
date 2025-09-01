@@ -6,6 +6,8 @@ editor: visual
 
 You can check out the latest projects that I conducted.
 
+**Individual Projects:**
+
 <ul>
 
 <li><a href="/Project Memo.html" target="_blank">Pollution and Life Expectancy Project Memo</a></li>
@@ -27,5 +29,19 @@ You can check out the latest projects that I conducted.
 <ul>
 
 <li><a href="/Final Project Presentation.pptx" target="_blank">Cryptocurrency Adoption and Crime: Presentation (PPTX - download)</a></li>
+
+</ul>
+
+**Group Projects:**
+
+<ul>
+
+<li><a href="/Final Paper Econometrics.pdf" target="_blank">The Impact of Migration on Total Fertility Rate in the EU</a></li>
+
+</ul>
+
+<ul>
+
+<li><a href="/Life Expectancy Effects of Demographics, Economy, Environment, and Politics.pdf" target="_blank">An Analysis of Factors Affecting Life Expectancy</a></li>
 
 </ul>
