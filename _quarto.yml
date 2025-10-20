@@ -9,7 +9,7 @@ website:
         text: Home
       - href: portfolio.qmd
         text: Portfolio
-      - href: LatestCV.pdf
+      - href: Sofija_Kaluderovic_CV.pdf
         text: CV 
       
 
