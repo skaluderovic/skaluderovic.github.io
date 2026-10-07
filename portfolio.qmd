@@ -6,7 +6,7 @@ editor: visual
 
 You can check out the latest projects that I conducted.
 
-**Individual Projects:**
+**Selected Individual Projects:**
 
 <ul>
 
@@ -38,7 +38,7 @@ You can check out the latest projects that I conducted.
 
 </ul>
 
-**Group Projects:**
+**Selected Group Projects:**
 
 <ul>
 
